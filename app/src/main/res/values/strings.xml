@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Espresso</string>
+    <string name="data_loaded">Data is loaded. App is ready to use</string>
+</resources>
